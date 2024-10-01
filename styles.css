@@ -1,0 +1,105 @@
+h1 {
+    font-size: 3em; /* Adjust the size as needed */
+    margin-bottom: 10px; /* Optional: adds space below the title */
+}
+
+
+.header-separator {
+    border-bottom: 2px solid black; /* Black line */
+    margin-bottom: 20px; /* Space below the line */
+}
+
+body {
+    font-size: 12px;
+}
+
+
+body {
+    font-family: 'Copperplate Gothic', serif;
+    background-image: url('background.jpg');
+    background-repeat: repeat;
+}
+
+img {
+    float: right;
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+    border: 5px solid #8B4513; /* Dark brown border */
+    border-radius: 50px; /* Rounded corners */
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5); /* Shadow effect */
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
+
+p.inspiration {
+    text-align: left; /* Aligns the inspiration line to the left */
+}
+
+p.poem {
+    text-align: left; /* Aligns the poem to the left */
+    margin-left: 50px; /* Indent the poem from the left */
+}
+
+
+h2 {
+    text-align: left; /* Aligning headings to the left */
+}
+
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 80%;
+    text-align: left;
+    vertical-align: top;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 3px;
+    width: 16%;
+}
+
+th {
+    background-color: black; /* Black background for header */
+    color: white; /* White text for header */
+}
+
+td.white {
+    background-color: white; /* White background for white cells */
+}
+
+td.gray {
+    background-color: gray; /* Gray background for gray cells */
+}
+
+.CS2420 { background-color: rgb(255, 0, 140); }
+.CS2370 { background-color: rgb(37, 238, 47); }
+.CS2600 { background-color: rgb(4, 176, 233); }
+
+
+body {
+    background-color: #c4a88a; /* Light brown background for the page */
+}
+
+.content-wrapper {
+    background-color: #f8f4e3; /* Cream background for the floating div */
+    margin: 30px auto; /* Center the div with 30px margins on each side */
+    padding: 20px; /* Add some padding inside the div */
+    max-width: 90%; /* Limit the width of the content wrapper */
+    border-radius: 8px; /* Optional: adds rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
+}
+

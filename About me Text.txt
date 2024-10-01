@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carlos Nava - About me</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="content-wrapper">
+
+    <h1>Carlos Nava</h1>
+    <div class="header-separator"></div>
+        <img src="pic_me.jpg" alt="me" width="500" height="480" title="Carlos Nava">
+        
+    <br>
+    <h2>Personal Info</h2>
+    <ul>
+        <li><strong>Major:</strong> Computer Science Software Dev</li>
+        <li><strong>High School:</strong> Corner Canyon, 2021</li>
+        <li><strong>Current Year at UVU:</strong> Senior</li>
+        <li><strong>Favorite Flavor of Ice Cream:</strong> Strawberry</li>
+    </ul>
+
+    <br>
+    <h2>Five Favorite Books</h2>
+    <ul>
+        <li><i>Harry Potter Prisoner of Azkaban</i> by <a href="https://www.jkrowling.com/">J.K Rowling</a></li>
+        <li><i>The Lost Hero</i> by <a href="https://rickriordan.com/">Rick Riordan</a></li>
+        <li><i>The House of Hades</i> by <a href="https://rickriordan.com/">Rick Riordan</a></li>
+        <li><i>Mortal Instruments</i> by <a href="https://cassandraclare.com/">Cassandra Clare</a></li>
+        <li><i>The Giver</i> by <a href="http://loislowry.com/">Lois Lowry</a></li>
+    </ul>
+
+    <h2>My Poem</h2>
+    <p class="inspiration">Inspiration: I currently have my jaw out of alignment and could only focus on it.</p>
+    <p class="poem">
+        A throb in the jaw, a pulse of ache,<br>
+        Like a whisper of thunder, it won’t forsake.<br>
+        Each beat a reminder, sharp and clear,<br>
+        Of the quiet torment that lingers near.
+    </p>
+
+    <h2>My personal interests</h2>
+    <p>I started my interest in computer science back in the 7th grade. I actually first started with HTML and would make websites depending on the topic.<br> Since then I managed to also learn more about computers by building one myself and learning more programs to help better my performance and such.</p>
+    <p>Video games have also been a huge part of my life starting back then with the Nintendo DS. Ever since I was young I always had an interest and have been<br> more surprised with how advanced we have gotten. This got me to build my own computer and play more advanced games than Mario.</p>
+    <p>My dad sparked my love for movies and every so often I try to watch at least 1 movie a week and I have since been keeping a list of all the movies I plan to watch<br> or have watched. I do also watch shows; my most recent one is Suits, but I also would need a break from TV shows as they can get very entertaining and suck you in.</p>
+
+    <table border="2" cellspacing="0" cellpadding="3">
+        <tr>
+            <th></th>
+            <th class="black">Monday</th>
+            <th class="black">Tuesday</th>
+            <th class="black">Wednesday</th>
+            <th class="black">Thursday</th>
+            <th class="black">Friday</th>
+        </tr>
+        <tr>
+            <td>10:00 AM</td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+        </tr>
+        <tr>
+            <td>10:30 AM</td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+        </tr>
+        <tr>
+            <td>11:00 AM</td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+        </tr>
+        <tr>
+            <td>11:30 AM</td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+        </tr>
+        <tr>
+            <td>12:00 PM</td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+        </tr>
+        <tr>
+            <td>12:30 PM</td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+        </tr>
+        <tr>
+            <td>1:00 PM</td>
+            <td class="gray"></td>
+            <td rowspan="2" style="background-color: lightpink;">CS 2420</td>
+            <td class="gray"></td>
+            <td rowspan="2" style="background-color: lightpink;">CS 2420</td>
+            <td class="gray"></td>
+        </tr>
+        <tr>
+            <td>1:30 PM</td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+        </tr>
+        <tr>
+            <td>2:00 PM</td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+        </tr>
+        <tr>
+            <td>2:30 PM</td>
+            <td class="white"></td>
+            <td rowspan="2" style="background-color: lightgreen;">CS 2370</td>
+            <td class="white"></td>
+            <td rowspan="2" style="background-color: lightgreen;">CS 2370</td>
+            <td class="white"></td>
+        </tr>
+        <tr>
+            <td>3:00 PM</td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+        </tr>
+        <tr>
+            <td>3:30 PM</td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+        </tr>
+        <tr>
+            <td>4:00 PM</td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+        </tr>
+        <tr>
+            <td>4:30 PM</td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+            <td class="white"></td>
+        </tr>
+        <tr>
+            <td>5:00 PM</td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+        </tr>
+        <tr>
+            <td>5:30 PM</td>
+            <td class="white"></td>
+            <td rowspan="2" style="background-color: lightblue;">CS 2600</td>
+            <td class="white"></td>
+            <td rowspan="2" style="background-color: lightblue;">CS 2600</td>
+            <td class="white"></td>
+        </tr>
+        <tr>
+            <td>6:00 PM</td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+            <td class="gray"></td>
+        </tr>
+    </table>
+
+</body>
+</html>
+
+</div>
+
+<!--
+--SELF GRADE--
+BODY        A 
+NAME        A 
+PORTRAIT    A 
+HEADINGS    A 
+SCHEDULE    A 
+
+--EXTRA CREDIT COMPLETED--
+FLOATING DIV (5pts)    YES
+STRIPED TABLE (5pts)   YES
+MODAL PORTRAIT (10pts) NO
+ARTISTIC MERIT (10pts) NO 
+ADDITIONAL COMMENTS
+-->
